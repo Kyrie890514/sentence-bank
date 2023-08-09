@@ -11,7 +11,14 @@ export default defineConfig({
   title: 'Sentence Bank',
   description: "Kyrie890514's Sentence Bank",
   lastUpdated: true,
+  head: [
+    ['link', { rel: 'icon', href: '/nana.png' }],
+    ['meta', { name: 'og:type', content: 'website' }],
+    ['meta', { name: 'og:locale', content: 'en' }],
+    ['meta', { name: 'og:site_name', content: "Kyrie890514's Sentence Bank" }]
+  ],
   themeConfig: {
+    logo: { src: '/nana.png', width: 24, height: 24 },
     nav: [
       {
         text: 'Book',
