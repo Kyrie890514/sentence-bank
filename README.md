@@ -1,3 +1,3 @@
 # sentence-bank
 
-Collect some beloved or meaningful sentences from books or videos.
+Collect some beloved or meaningful sentences from books or videos to help me learn English.
