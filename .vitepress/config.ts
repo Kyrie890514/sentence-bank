@@ -13,7 +13,11 @@ export default defineConfig({
   lastUpdated: true,
   themeConfig: {
     nav: [
-      { text: 'Book', link: '/book/' + books[0].link, activeMatch: '/book/' }
+      {
+        text: 'Book',
+        link: '/book/The-Almanack-Of-Naval-Ravikant',
+        activeMatch: '/book/'
+      }
     ],
     sidebar: [
       {

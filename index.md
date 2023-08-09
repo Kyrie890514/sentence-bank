@@ -1,24 +1,23 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: 'Sentence Bank'
-  text: "Kyrie890514's Sentence Bank"
-  tagline: My great project tagline
+  name: "Kyrie890514's Sentence Bank"
+  tagline: Collect some beloved or meaningful sentences from books or videos to help me learn English.
+
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Book
+      link: /book/The-Almanack-Of-Naval-Ravikant
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View on GitHub
+      link: https://github.com/Kyrie890514/sentence-bank
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Collect
+    details: Gather beloved or meaningful sentences.
+  - title: Memorize
+    details: Engage in learning, contemplation, understanding, and then memorization.
+  - title: Use
+    details: Apply them in real-life conversations and writing exercises.
 ---
