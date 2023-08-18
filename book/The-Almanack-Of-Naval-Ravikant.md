@@ -56,7 +56,7 @@ outline: deep
 
 ### Build Or Buy Equity In A Business
 
-- If you don't own apiece of a business, you don't have a path towards financial freedom.
+- If you don't own a piece of a business, you don't have a path towards financial freedom.
 
 ### Find A Position Of Leverage
 
