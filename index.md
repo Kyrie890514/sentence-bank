@@ -23,10 +23,3 @@ features:
   - title: Use
     details: Apply them in real-life conversations and writing exercises.
 ---
-
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe -10%, pink);
-}
-</style>
