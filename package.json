@@ -1,13 +1,14 @@
 {
   "name": "sentence-bank",
   "version": "1.0.0",
+  "author": "Kyrie890514",
+  "packageManager": "pnpm@8.6.12",
   "type": "module",
   "scripts": {
     "dev": "vitepress dev",
     "build": "vitepress build",
     "preview": "vitepress preview"
   },
-  "author": "Kyrie890514",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.4.9",
