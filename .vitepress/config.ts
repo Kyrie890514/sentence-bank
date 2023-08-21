@@ -9,6 +9,7 @@ const books = fs
 export default defineConfig({
   lang: 'en-US',
   title: 'Sentence Bank',
+  base: '/sentence-bank/',
   description: "Kyrie890514's Sentence Bank",
   lastUpdated: true,
   head: [
