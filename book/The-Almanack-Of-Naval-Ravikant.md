@@ -64,7 +64,7 @@ outline: deep
 
 - I only really want to do things for their own sake.
 
-- The year I generated the most wealth for myself was actually the year I worked the least hard and cared the least about the future. I was mostly doing things for the sheer fun of it. I was basically telling people, "I'm retired, I'm not working."Then, I had the time for whatever was my highest valued project in front of me.
+- The year I generated the most wealth for myself was actually the year I worked the least hard and cared the least about the future. I was mostly doing things for the sheer fun of it. I was basically telling people, "I'm retired, I'm not working." Then, I had the time for whatever was my highest valued project in front of me.
 
 - You're more likely to have skills society does not yet know how to train other people to do. If someone can train other people how to do something, then they can replace you. If they can replace you, then they don't have to pay you a lot.
 
