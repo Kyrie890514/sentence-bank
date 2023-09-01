@@ -60,7 +60,7 @@ outline: deep
 
 ### Find A Position Of Leverage
 
-- Following your genuine intellectual curiosity is abetter foundation for a career than following whatever is making money right now.
+- Following your genuine intellectual curiosity is a better foundation for a career than following whatever is making money right now.
 
 - I only really want to do things for their own sake.
 
